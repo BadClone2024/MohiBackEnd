@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MohiBallBackEndSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf5020a6f3c23bee9a914c0f88906bc8a038c2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1abcaaac726182dc7a44fdb7b9fc991d33002704")]
 [assembly: System.Reflection.AssemblyProductAttribute("MohiBallBackEndSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MohiBallBackEndSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
