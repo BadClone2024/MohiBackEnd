@@ -1,0 +1,6 @@
+@MohiBallBackEndSolution_HostAddress = http://localhost:5239
+
+GET {{MohiBallBackEndSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
